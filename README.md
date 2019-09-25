@@ -1,4 +1,4 @@
-# # Introduction to Scikit-Learn and Pandas
+# Introduction to Scikit-Learn and Pandas
 Artifical Intelligence and Machine Learning Symposium at OU  
 Univeristy of Oklahoma Memorial Union Ballroom  
 September 25, 2019  
