@@ -23,3 +23,6 @@ Instructors:
 3. Hyper-parameter selection
 
 4. Clustering
+
+
+Get the notebooks for all the other tutorials [here](https://github.com/MomoSho/aiml2019_tutorial_setup/blob/master/OPEN_ME.md)
